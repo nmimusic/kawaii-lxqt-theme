@@ -1,4 +1,6 @@
-テーマ自体はLXQtのLightテーマから派生したので、GNU劣等一般公衆利用許諾書 第2.1版で利用可能。
+themes/*/*.qss
+
+以上はLXQtのLightテーマから派生したので、GNU劣等一般公衆利用許諾書 第2.1版で利用可能。
 
 Copyright (c) 2010-2012 Razor team
               2012-2023 LXQt team
@@ -13,7 +15,10 @@ You should have received a copy of the GNU Lesser General Public License along w
 ----------
 
 themes/*/mainmenu.svg
+themes/*/*/*.svg
+themes/*/preview.png
 pallets/*
+
 以上のファイルは、三条項BSDライセンスで利用可能。
 
 Copyright (c) 2026, Nakamura Musical Industries,Computer Software Developement Business Unit
